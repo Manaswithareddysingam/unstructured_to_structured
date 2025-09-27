@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+spacy
+pillow
+pytesseract
+requests
+python-multipart
+nest-asyncio
+pyngrok
